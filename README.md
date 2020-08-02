@@ -23,7 +23,7 @@ xc7s15ftgb196-1
 
 4.通过串口监视器查看。
 # AWS
-1. Iot-core中创建things，策略，进行关联。
+1.Iot-core中创建things，策略，进行关联。
 
 2.本地下载证书，进行esp32与aws iot的连接。
 
