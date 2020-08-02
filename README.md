@@ -31,5 +31,17 @@ xc7s15ftgb196-1
 
 4.订阅MQTT主题观察数据。
 # 仓库目录介绍
+# ExecutableFiles
+1.bit文件
+# Sourcecode
+1.esp32完整工程
+
+2.fpga完整工程
+# images
+1.arduion端示意图
+
+2.aws端示意图
+
+3.系统组成
 
 
