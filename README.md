@@ -30,9 +30,12 @@ xc7s15ftgb196-1
 3.上传数据至aws。
 
 4.订阅MQTT主题观察数据。
+# 系统组成说明
+![image](https://github.com/WziiQ/YAOYAOLE/blob/master/images/3.png)
 # 效果示意图
 ![image](https://github.com/WziiQ/YAOYAOLE/blob/master/images/1.png)
-![image]
+
+![image](https://github.com/WziiQ/YAOYAOLE/blob/master/images/2.png)
 # 仓库目录介绍
 # ExecutableFiles
 1.可直接下载到板卡使⽤的FPGA 比特流文件
