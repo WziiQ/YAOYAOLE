@@ -30,6 +30,8 @@ xc7s15ftgb196-1
 3.上传数据至aws。
 
 4.订阅MQTT主题观察数据。
+# 作品示意图
+![image](https://github.com/WziiQ/YAOYAOLE/blob/master/images/1.png)
 # 仓库目录介绍
 # ExecutableFiles
 1.bit文件
